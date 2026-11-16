@@ -1,0 +1,12 @@
+[200~# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Secrets and env files
+.env
+
+# Editors and OS
+.vscode/
+.DS_Store~
